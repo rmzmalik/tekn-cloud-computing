@@ -1,0 +1,1 @@
+hasil praktikum minggu pertama
