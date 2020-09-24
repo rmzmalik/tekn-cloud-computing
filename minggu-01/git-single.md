@@ -25,12 +25,12 @@
 
 ### Git Gui
 
-![Gambar 1](./git Gui1.PNG)
+![Gambar 1](./gitGui1.PNG)
 
 ### Konfigurasi Git
-![Gambar 1](./konfigurasi git.PNG)
+![Gambar 1](./konfigurasigit.PNG)
 
 ### new repository
 
-![Gambar 1](./new repository.PNG)
-![Gambar 1](./create repo.PNG)
+![Gambar 1](./newrepository.PNG)
+![Gambar 1](./createrepo.PNG)
