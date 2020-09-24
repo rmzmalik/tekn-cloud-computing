@@ -26,5 +26,5 @@ Dalam instalasi ACC (Adobe Creative Cloud ) memiliki berbagai kemudahan, hl ini 
 
 ACC memiliki sistem update yang cepat . Selain itu, fitur – fitur yang di updatepun sangat mengagumkan. Dengan proses yang cepat dan tentunya tersedia fitur update otomatis sehingga kita tidak perlu repot-epot melakukan update pada aplikasi/softwarenya.
 
-#### SoftWare Persamaan dengan Non Cloud : Adobe Suite
+ SoftWare Persamaan dengan Non Cloud : Adobe Suite
 
